@@ -38,7 +38,7 @@ Include your HTML code here
 
 ## Output:
 Include your output screenshot here
-![233895702-622d9310-f278-4bc1-af7a-9baeb8a940f3](https://github.com/Hanumanth26/places-around-me/assets/121033192/000faef7-a1be-4654-b890-fc12865b598f)
+![Uploading image.png…]()
 
 ## Result:
 Write your result he program for implementing image maps using HTML is executed
